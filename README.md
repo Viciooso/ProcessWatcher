@@ -1,4 +1,4 @@
-# ChromeProcessMonitor
+# ProcessWatcher
 
 A batch script to open Chrome, monitor its process, and display a reminder message when Chrome is closed.
 
@@ -26,15 +26,15 @@ This project provides a simple batch script that opens Google Chrome with a spec
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/YOUR_USERNAME/ChromeProcessMonitor.git
-    cd ChromeProcessMonitor
+    git clone https://github.com/YOUR_USERNAME/ProcessWatcher.git
+    cd ProcessWatcher
     ```
 
 2. Make sure you have the necessary permissions to run batch scripts and PowerShell scripts on your system.
 
 ### Usage
 
-1. Edit the batch script `AbrirChromeYMonitorear.bat` to set the desired URL:
+1. Edit the batch script `ProcessWatcher.bat` to set the desired URL:
 
     ```batch
     @echo off
@@ -47,7 +47,7 @@ This project provides a simple batch script that opens Google Chrome with a spec
 2. Run the batch script:
 
     ```sh
-    AbrirChromeYMonitorear.bat
+    ProcessWatcher.bat
     ```
 
 3. The script will open Google Chrome with the specified URL, monitor its process, and display a reminder message when Chrome is closed.
