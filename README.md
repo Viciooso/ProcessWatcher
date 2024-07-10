@@ -26,7 +26,7 @@ This project provides a simple batch script that opens Google Chrome with a spec
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/YOUR_USERNAME/ProcessWatcher.git
+    git clone https://github.com/Viciooso/ProcessWatcher.git
     cd ProcessWatcher
     ```
 
